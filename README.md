@@ -1,1 +1,1 @@
-# sabit
+# create by sabit
